@@ -1,5 +1,5 @@
-project_id = "PROJECT_ID"
+project_id = "raaj-p-sandbox"
 environment = "dev"
-subnet1_region = "us-central1"
-subnet1_zone = "us-central1-a"
+subnet1_region = "europe-west2"
+subnet1_zone = "europe-west2-a"
 subnet1_cidr = "10.10.0.0/16"

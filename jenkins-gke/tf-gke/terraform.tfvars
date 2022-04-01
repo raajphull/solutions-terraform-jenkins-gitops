@@ -1,9 +1,9 @@
 
 
-project_id = "PROJECT_ID"
-tfstate_gcs_backend = "PROJECT_ID-tfstate"
-region = "us-east4"
-zones = ["us-east4-a"]
+project_id = "raaj-p-sandbox"
+tfstate_gcs_backend = "raaj-p-sandbox-tfstate"
+region = "europe-west1"
+zones = ["europe-west1-b"]
 ip_range_pods_name = "ip-range-pods"
 ip_range_services_name = "ip-range-scv"
 network_name = "jenkins-network"
